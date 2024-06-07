@@ -1,0 +1,28 @@
+body{
+
+color: green;
+    background-color:darkgray;
+    
+}
+p
+{
+    color: blue;
+    background-color: white ;
+    font-weight: 1000;
+    font-size: 16px ;
+   
+    
+}
+
+h1
+{
+    color: blue;
+    
+}
+.second-p{
+    color: green;
+    font-family:'Times New Roman', Times, serif; 
+}
+#f-p{
+    color: pink;
+}
