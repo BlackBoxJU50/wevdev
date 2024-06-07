@@ -6,7 +6,7 @@ color: green;
 }
 p
 {
-    color: blue;
+    color: blue; 
     background-color: white ;
     font-weight: 1000;
     font-size: 16px ;
@@ -17,6 +17,7 @@ p
 h1
 {
     color: blue;
+    background-color: white;
     
 }
 .second-p{
